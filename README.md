@@ -2,7 +2,8 @@
 Here are some facts about me:
 
 * I'm from Istanbul, Turkey.
-* I speak 5 languages :us: :de: :ru: 🇹🇷 🇸🇦 (not to mention the _programming_ languages!)
+* I speak 5 languages :us: :de: :ru: 🇹🇷 🇸🇦
+* ...and also a Programming _Languages_ Teaching Assistant.
 * I'm an amateur filmmaker and photographer
 
 <!--
