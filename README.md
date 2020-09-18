@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<p float="left">
-  <img src="/animals.jpg" width="300" />
-  <img src="/distort_animals.jpg" width="300" /> 
-  <img src="/hell.jpg" width="300" />
-</p>
-
 <!--
 **dogacancolak/dogacancolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
