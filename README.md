@@ -4,7 +4,7 @@
 ### Here are some facts about me:
 * I'm from Antalya, Turkey (see above picture)
 * I speak 5 languages... :us: :de: :ru: 🇹🇷 🇸🇦
-* ...and also I'm a Programming **_Languages_** TA
+* ...and also I'm a **Programming _Languages_** TA
 * I'm an amateur filmmaker and photographer
 
 ### What I've Been Working On
