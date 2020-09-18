@@ -4,10 +4,10 @@
 
 ### Here are some facts about me:
 
-__*__ I'm from Antalya, Turkey (see above picture)
-__*__ I speak 5 languages :us: :de: :ru: 🇹🇷 🇸🇦
-__*__ ...and also I'm a Programming _Languages_ TA (yes, I have a thing for languages)
-__*__ I'm an amateur filmmaker and photographer
+* I'm from Antalya, Turkey (see above picture)
+* I speak 5 languages :us: :de: :ru: 🇹🇷 🇸🇦
+* ...and also I'm a Programming _Languages_ TA (yes, I have a thing for languages)
+* I'm an amateur filmmaker and photographer
 
 <!--
 **dogacancolak/dogacancolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
