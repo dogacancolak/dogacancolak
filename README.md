@@ -1,7 +1,6 @@
-![Antalya](/images/antalya.jpg)
+![Antalya](/images/antalya.jpeg)
 
 # Hello Stranger 👋
-
 ### Here are some facts about me:
 * I'm from Antalya, Turkey (see above picture)
 * I speak 5 languages :us: :de: :ru: 🇹🇷 🇸🇦
