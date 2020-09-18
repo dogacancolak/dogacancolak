@@ -1,5 +1,9 @@
 # Welcome to my GitHub 👋
-aga
+Here are some facts about me:
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
 <!--
 **dogacancolak/dogacancolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
