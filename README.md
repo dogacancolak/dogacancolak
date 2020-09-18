@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <p float="left">
-  <img src="/animals.jpg" width="100" />
-  <img src="/distort_animals.jpg" width="100" /> 
-  <img src="/hell.jpg" width="100" />
+  <img src="/animals.jpg" width="300" />
+  <img src="/distort_animals.jpg" width="300" /> 
+  <img src="/hell.jpg" width="300" />
 </p>
 
 <!--
