@@ -1,8 +1,8 @@
 # Welcome to my GitHub 👋
 Here are some facts about me:
 
-![GitHub Logo](/images/istanbul.jpg)
-![Alt Text]
+* I'm from Istanbul, Turkey 🇹🇷
+* I speak 5 languages! :us: :de: :ru: 🇹🇷 🇸🇦
 
 <!--
 **dogacancolak/dogacancolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
