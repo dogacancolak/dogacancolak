@@ -1,7 +1,7 @@
 # Welcome to my GitHub 👋
 Here are some facts about me:
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/ISTANBUL.jpg)
 Format: ![Alt Text](url)
 
 <!--
