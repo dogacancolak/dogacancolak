@@ -1,9 +1,12 @@
+![Antalya](/images/antalya.jpeg)
+
 # Hello Stranger 👋
 Here are some facts about me:
 
+
 * I'm from Istanbul, Turkey.
 * I speak 5 languages :us: :de: :ru: 🇹🇷 🇸🇦
-* ...and also I'm a Programming _Languages_ TA at Tufts (yes, I have a thing for languages)
+* ...and also I'm a Programming _Languages_ TA (yes, I have a thing for languages)
 * I'm an amateur filmmaker and photographer
 
 <!--
