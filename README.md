@@ -10,7 +10,7 @@
 ### What I've Been Working On
 * [Robot Vacuum Cleaner Algorithms](https://github.com/dogacancolak/Robot-Vacuum-Cleaner)
 * [TripRoulette (Daytrip recommendation app)](https://github.com/dogacancolak/Trip-Roulette)
-* Lossy Image Compressor
+* [Lossy Image Compressor](https://github.com/dogacancolak/Arith)
 
 ### Where to Find Me
 * [LinkedIn](https://www.linkedin.com/in/dogacancolak/)
