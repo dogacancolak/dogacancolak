@@ -8,8 +8,8 @@
 * I'm an amateur filmmaker and photographer
 
 ### What I've Been Working On
-* [Robot Vacuum Cleaner Algorithms](https://github.com/dogacancolak/Robot-Vacuum-Cleaner)
 * [TripRoulette (Daytrip recommendation app)](https://github.com/dogacancolak/Trip-Roulette)
+* [Robot Vacuum Cleaner Algorithms](https://github.com/dogacancolak/Robot-Vacuum-Cleaner)
 * [Lossy Image Compressor](https://github.com/dogacancolak/Arith)
 
 ### Where to Find Me
