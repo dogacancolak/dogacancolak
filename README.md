@@ -14,5 +14,4 @@
 
 ### Where to Find Me
 * [LinkedIn](https://www.linkedin.com/in/dogacancolak/)
-* [Personal Website](nan)
 * [YouTube](https://www.youtube.com/user/esofmanitersgiyen07/featured?view_as=subscriber)
