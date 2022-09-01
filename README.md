@@ -8,4 +8,3 @@
 
 ### Where to Find Me
 * [LinkedIn](https://www.linkedin.com/in/dogacancolak/)
-* [YouTube](https://www.youtube.com/user/esofmanitersgiyen07/featured?view_as=subscriber)
